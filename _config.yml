@@ -6,22 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Awesome Site Title
-email: your-email@domain.com
+title: My thoughts
+email: masciospam@openmailbox.org
 description: >
-  Awesome site description here
+  This chatty guy must be able to have its say
 logo: "/assets/images/logo.jpg"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /thoughts
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'Your Name'
+name: 'Flavio Mascetti'
 bio: >
   Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
   Ne solet nostrum complectitur pri, vis ut inani populo.
 author_image: "/assets/images/author.jpg"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: MascioSpam
+github_username:  MascioSpam
 
 # Build settings
 markdown: kramdown
